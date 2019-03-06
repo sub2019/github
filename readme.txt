@@ -1,3 +1,3 @@
 git is free
 my name is li shaogang
-Creating a new branch is quick.
+Creating a new branch is quick AND simple.
